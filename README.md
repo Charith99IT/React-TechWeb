@@ -1,2 +1,2 @@
 # React-TechWeb
-TechWebsite fro using react
+TechWebsite frontend using React and AntDesign
